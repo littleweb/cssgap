@@ -1,0 +1,15 @@
+/*
+ * file     : css/ui/graph.css
+ * @project : cssGap
+ * @desc    : css图形化样式
+ * @author  : 小web
+ * @date    : 2012.07.03
+ */
+
+/* 右三角样式 */
+.Ui-triangle-right{
+	display: inline-block;
+	border-top: 5px solid #ca8607;
+	border-left: 5px solid #FFF;
+	border-bottom: 5px solid #ca8607;
+}

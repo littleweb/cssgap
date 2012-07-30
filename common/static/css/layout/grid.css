@@ -1,0 +1,12 @@
+/*
+ * file     : css/layput/grid.css
+ * @project : cssGap
+ * @desc    : 栅格布局
+ * @author  : 小web
+ * @date    : 2012.06.30
+ */
+
+/* 栅格体系 */
+.Grid-w950,.Grid-24{width: 950px; margin: auto;}
+.Grid-w190,.Grid-5{width: 190px; float: left;}
+.Grid-w750,.Grid-19{width: 750px; float: left;}

@@ -1,0 +1,48 @@
+/*
+ * file     :css/base/content.css
+ * @project : cssGap
+ * @desc    : 基础内容外观样式
+ * @author  : 小web
+ * @date    : 2012.06.09
+ */
+
+/*字体体系*/
+	/* 主体字体 */
+.Base-font-main,.B-f-m,.Font-main,body{
+	font: 12px/1.333 arial,helvetica,clean; /* 1.333为默认行高16px(16/12),去除sans-serif防止ie8\9下字体变形 */
+}
+	/* 英文字体 */
+.Base-font-en,.B-f-e,.Font-en{
+
+}
+	/* 中文字体 */
+.Base-font-cn,.B-f-c,.Font-cn{
+
+}
+	/* 数字型字体 */
+.Base-font-num,.B-f-n,.Font-num{
+	
+}
+
+/* 颜色体系 */
+	/*主体色*/
+.Base-color-main,.B-c-m,.Color-main,body{
+	color: #333;
+}
+	/*描述性色*/
+.Base-color-desc,.B-c-d,.Color-desc{
+	color: #666;
+}
+	/*附属文字色*/
+.Base-color-tail,.B-c.t,.Color-tail{
+	color: #999;
+}
+	/* 飘红 */
+.Base-color-red,.B-c.t,.Color-red{
+	color: red;
+}
+
+	/* 飘黄 */
+.Base-color-yellow,.B-c.t,.Color-yellow{
+	color: #FFBA00;
+}

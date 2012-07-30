@@ -1,0 +1,23 @@
+/*
+ * file     : css/model/table.css
+ * @project : cssGap
+ * @desc    : 表格样式
+ * @author  : 小web
+ * @date    : 2012.07.04
+ */
+
+table{
+	width: 100%;
+	border-collapse:collapse;
+	border: 1px solid #BBB;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+table th{
+	border: 1px solid #698C1D;
+	white-space: nowrap;
+}
+table td{
+	border: 1px solid #BBB;
+	vertical-align: top;
+}

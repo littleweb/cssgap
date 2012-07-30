@@ -1,0 +1,18 @@
+/*
+ * file     : css/model/pager.css
+ * @project : cssGap
+ * @desc    : 分页样式
+ * @author  : 小web
+ * @date    : 2012.06.09
+ */
+
+.Modle-pager a{
+	margin: 0 2px;padding: 2px 5px;
+	border: 1px solid #c1c1c1;
+}
+.Modle-pager a:hover{
+	text-decoration: none;
+}
+.Modle-pager .current{
+	border-color: #fff; 
+}

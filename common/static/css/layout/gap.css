@@ -1,0 +1,64 @@
+/*
+ * file     : css/layput/gap.css
+ * @project : cssGap
+ * @desc    : 通用间距设定
+ * @author  : 小web
+ * @date    : 2012.06.09
+ */
+ 
+/* margin */
+/* margin:5px */
+.Layout-gap-mt5,.Gap-mt5{
+	margin-top: 5px;
+}
+.Layout-gap-mr5,.Gap-mr5{
+	margin-right: 5px;
+}
+.Layout-gap-mb5,.Gap-mb5{
+	margin-bottom: 5px;
+}
+.Layout-gap-ml5,.Gap-ml5{
+	margin-left: 5px;
+}
+
+/* margin:10px */
+.Layout-gap-mt10,.Gap-mt10{
+	margin-top: 10px;
+}
+.Layout-gap-mr10,.Gap-mr10{
+	margin-right: 10px;
+}
+.Layout-gap-mb10,.Gap-mb10{
+	margin-bottom: 10px;
+}
+.Layout-gap-ml10,.Gap-ml10{
+	margin-left: 10px;
+}
+
+/* padding:5px */
+.Layout-gap-pt5,.Gap-pt5{
+	padding-top: 5px;
+}
+.Layout-gap-pr5,.Gap-pr5{
+	padding-right: 5px;
+}
+.Layout-gap-pb5,.Gap-pb5{
+	padding-bottop: 5px;
+}
+.Layout-gap-pl5,.Gap-pl5{
+	padding-left: 5px;
+}
+
+/* padding:10px */
+.Layout-gap-pt10,.Gap-pt10{
+	padding-top: 10px;
+}
+.Layout-gap-pr10,.Gap-pr10{
+	padding-right: 10px;
+}
+.Layout-gap-pb10,.Gap-pb10{
+	padding-bottop: 10px;
+}
+.Layout-gap-pl10,.Gap-pl10{
+	padding-left: 10px;
+}

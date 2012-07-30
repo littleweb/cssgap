@@ -1,0 +1,12 @@
+/*
+ * file     : css/ui/imgbtn.css
+ * @project : cssGap
+ * @desc    : 图片按钮
+ * @author  : 小web
+ * @date    : 2012.07.03
+ */
+
+.Ui-imgBtn{
+	display: inline-block;
+	overflow: hidden;line-height: 9999em;
+}

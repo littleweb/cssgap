@@ -1,0 +1,55 @@
+/*
+ * file     : css/model/tags.css
+ * @project : cssGap
+ * @desc    : 基础内容tag样式设定
+ * @author  : 小web
+ * @date    : 2012.06.09
+ */
+
+/* 超链接 */
+a {
+    color: #5b5b5b;
+    text-decoration: none;
+}
+a:hover {
+    color: #aa6102;
+    text-decoration: underline;
+}
+
+/* 标题 */
+h1 {
+    font-size:      $h1FontSize;
+    font-family:    $h1FontFamily;
+    font-weight:    $h1FontWeight;
+    color:          $h1Color;
+}
+h2 {
+    font-size:      $h2FontSize;
+    font-family:    $h2FontFamily;
+    font-weight:    $h2FontWeight;
+    color:          $h2Color;
+}
+h3 {
+    font-size:      $h3FontSize;
+    font-family:    $h3FontFamily;
+    font-weight:    $h3FontWeight;
+    color:          $h3Color;
+}
+h4 {
+    font-size:      $h4FontSize;
+    font-family:    $h4FontFamily;
+    font-weight:    $h4FontWeight;
+    color:          $h4Color;
+}
+h5 {
+    font-size:      $h5FontSize;
+    font-family:    $h5FontFamily;
+    font-weight:    $h5FontWeight;
+    color:          $h5Color;
+}
+h6 {
+    font-size:      $h6FontSize;
+    font-family:    $h6FontFamily;
+    font-weight:    $h6FontWeight;
+    color:          $h6Color;
+}

@@ -1,0 +1,18 @@
+/*
+ * file     : css/layput/mixins.css
+ * @project : cssGap
+ * @desc    : 混合通用工具
+ * @author  : 小web
+ * @date    : 2012.06.09
+ */
+ 
+.Layout-clearfix,.Clearfix{
+	*zoom: 1;
+}
+.Layout-clearfix:after,.Clearfix:after{
+	content: '\\20';
+	display: block;
+	height: 0;
+	overflow: hidden;
+	clear: both;
+}
